@@ -1,3 +1,6 @@
 Belajar github sangat menyenangkan 
 Ada yang berubah 
-Ada yang berubah 
+Ada yang berubah
+Menambahkan baris keempat dengan teks
+Menambahkan baris kelima dengan teks
+
